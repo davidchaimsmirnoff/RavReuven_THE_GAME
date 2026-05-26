@@ -4,5 +4,8 @@ This is still in Progress With G-d's Help it will be a Game where the player can
 
 For the Time Being though Pray for our sucsess!
 
+To test the Game though copy the index.html code to any HTML interpreter and it will render the basic Demo - Bellow is our recomended Choice
+https://htmledit.squarefree.com/
+
 ![Game Image](image.png)
 
